@@ -1,0 +1,71 @@
+*{
+    font-family: Poppins;
+}
+/*******header************/
+header {
+    background-color: #F0FFF0;
+}
+.navbar {
+    background-color: none;
+}
+.navbar-brand img {
+    width: 150px;
+}
+.navbar-btn{
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+
+.get-srtd {
+    width: 153px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+
+}
+
+/*********main************/
+.card1-img{
+    width: 66px;
+    height: 85px;   
+}
+
+.card1 {
+    border-radius: 15px;
+    border: none;
+    transition: 1s;
+    background-color: #effff6;
+}
+.card1:hover{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+
+.cors-btn{
+    width: 137px;
+    height: 35px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+
+}
+
+.card2{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.testimonial{
+    width: 500px;
+    word-wrap: break-word;
+}
+
+/********Footer********/
+.foot{
+    background: #282531;
+    color: white;
+}
